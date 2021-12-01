@@ -1,0 +1,71 @@
+Kata 1 - Como trocar uma lâmpada com segurança
+
+1-Compre uma lâmpada nova em uma loja de materiais para construção;
+2-Desligue a rede elétrica da residência através da caixa de força;
+3-Remova a lâmpada queimada do bocal e reserve;
+4-Retire a lâmpada nova da embalagem e reserve a embalagem;
+5-Conecte a lâmpada nova no bocal;
+6-Ligue a rede elétrica;
+7-Ligue o interruptor para testar se tudo deu certo;
+8-Coloque a lâmpada queimada na embalagem da nova para mais segurança na hora do descarte.
+
+
+
+Kata 2 - Como beber um copo d'água
+
+1-Vá até a cozinha;
+2-Pegue um copo limpo no armário;
+3-Abra a porta da geladeira;
+4-Pegue uma garrafa d'água;
+5-Feche a porta da geladeira;
+6-Despeje a água da garrafa no copo;
+7-Abra a porta da geladeira novamente;
+8-Guarde a garrafa d'água na geladeira;
+9-Feche a porta da geladeira;
+10-Beba a água;
+11-Coloque o copo na pia.
+
+
+
+Kata 3 - Como fritar um ovo
+
+1-Vá até a cozinha;
+2-Pegue uma frigideira;
+3-Coloque a frigideira no fogão;
+4-Abra a geladeira;
+5-Pegue um ovo da cartela (ou suporte apropiado para ovo na geladeira);
+6-Feche a geladeira;
+7-Coloque o ovo em cima fogão para uso posterior;
+8-Pegue o óleo;
+9-Coloque cerca de uma colher de chá de óleo na frigideira;
+10-Ligue o fogo e espere até o óleo estar bem quente;
+11-Quebre o ovo na frigideira assim que o óleo estiver bem quente;
+12-Coloque sal à gosto;
+13-Tampe a frigideira e aguarde três minutos (o tempo irá variar dependendo de como você gosta da sua gema);
+14-Desligue o fogo;
+15-Sirva.
+
+
+
+Kata 4 - Como somar dois números
+
+1-Pegue um papel em branco;
+2-Pegue um lápis ou caneta;
+3-Utilizando o lápis, escreva o número a ser somado. Vou utilizar o número "7";
+4-Escreva o sinal de mais (+);
+5-Escreva o número que será somado ao "7". Vou utilizar o "4";
+6-Você irá obter o resultado dessa adição. Sua resposta será "11".
+
+
+
+Kata 5 - Como somar dois números e multiplicar o resultado pelo primeiro número
+
+1-Pegue um papel em branco;
+2-Pegue um lápis ou uma caneta;
+3-Utilizando o lápis, escreva um número a ser somado. Irei utilizar o "5";
+4-Escreva o sinal de adição (+);
+5-Escreva o número que será somado ao "5". Vou utilizar o "3";
+6-O resultado dessa adição será "8";
+7-Do lado do resultado da adição anterior, escreva o sinal de multiplicação (x ou ".");
+8-Escreva o primeiro número utilizado na adição, o número "5";
+9-Você irá obter o seu produto, ou resultado da multiplicação, que será "40".
